@@ -16,4 +16,4 @@ git clone https://github.com/CREAMBOY3/100090.git
 
 cd 100090
 
-python ASX.py
+python Here.py
